@@ -5,3 +5,7 @@ app = Flask(__name__)
 app.route()
 def index():
     return 'hello world'
+
+a = 10
+b = 20
+c = 30
